@@ -4,25 +4,26 @@
   margin: 0;
   box-sizing: border-box;
 }
-.page-p1 {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 900 !important;
-  font-size: 30px;
-  line-height: 39px;
-  /* identical to box height, or 130% */
-
-  color: #999999;
-}
-.page-p2 {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 400 !important;
-  font-size: 20px;
-  line-height: 30px;
+.read_more {
+  font-family: "Prompt";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
   /* or 150% */
 
-  text-align: center;
+  color: #000000;
+}
+a {
+  text-decoration: none;
+}
+.read_more-a {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 150% */
 
-  color: #999999;
+  color: #ca0000;
 }
