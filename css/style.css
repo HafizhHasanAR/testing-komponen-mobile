@@ -4,7 +4,7 @@
   margin: 0;
   box-sizing: border-box;
 }
-.p-1-c {
+.p-1-c-video {
   font-family: "Lato";
   font-style: normal;
   font-weight: 700;
@@ -14,7 +14,7 @@
 
   color: #000000;
 }
-.p-2-c {
+.p-2-c-video {
   font-family: "Lato";
   font-style: normal;
   font-weight: 400;
