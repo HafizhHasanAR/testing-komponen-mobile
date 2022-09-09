@@ -4,26 +4,26 @@
   margin: 0;
   box-sizing: border-box;
 }
-.read_more {
-  font-family: "Prompt";
-  font-style: italic;
+.p-1-c {
+  font-family: "Lato";
+  font-style: normal;
   font-weight: 700;
-  font-size: 16px;
-  line-height: 24px;
-  /* or 150% */
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.p-2-c {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  /* or 142% */
 
   color: #000000;
 }
 a {
   text-decoration: none;
-}
-.read_more-a {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  /* or 150% */
-
-  color: #ca0000;
 }
