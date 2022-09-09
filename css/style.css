@@ -4,26 +4,31 @@
   margin: 0;
   box-sizing: border-box;
 }
-.p-1-c {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 17px;
-  /* identical to box height */
-
-  color: #000000;
+.read_more-container {
+  background: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
 }
-.p-2-c {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 17px;
-  /* or 142% */
+.read-more-p {
+  font-family: "Prompt";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
 
   color: #000000;
 }
 a {
   text-decoration: none;
+}
+.li-readmore {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  /* or 157% */
+
+  color: #000000;
 }
